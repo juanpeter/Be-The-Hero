@@ -8,15 +8,16 @@
                                                          
 <br>
 
-- [O Projeto]](#intro)
+- [O Projeto](#intro)
 - [Tecnologias usadas](#tec)
 - [Agradecimentos](#agradecimentos)
 - [Licença](#licença)
+- [Galeria](#galeria)
 
 ## [O Projeto](#intro)
 O <b>Be The Hero</b> é um app desenvolvido na Semana OmniStack pela [Rocketseat](https://github.com/Rocketseat), com o objetivo de conectar ONG's que precisam de ajuda financeira com pessoas que as queiram ajudar.
 
-### [Tecnologias usadas](#tec)
+## [Tecnologias usadas](#tec)
 Esse projeto utiliza as seguintes tecnologias:
 - [Node.js](https://nodejs.org/en/)
 - [Expo](https://expo.io/)
@@ -32,6 +33,10 @@ Esse projeto utiliza as seguintes tecnologias:
 - Pelo [Diego Fernandes](https://github.com/diego3g) por ministrar o curso e incentivar a mim e a tantos outros devs a se tornarem melhores programadores;
 - A todos os moderadores e membros do Discord, que com tanta paciência tiraram dúvidas!
 
-### [Licença](#licença)
+## [Licença](#licença)
 
 O projeto possui licença padrão MIT.
+
+## [Galeria](#galeria)
+
+
