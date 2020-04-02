@@ -38,5 +38,15 @@ Esse projeto utiliza as seguintes tecnologias:
 O projeto possui licença padrão MIT.
 
 ## [Galeria](#galeria)
+  ### Mobile
+  <p display="inline">
+    <img src="./screenshots/Screen Shot 2020-04-02 at 12.56.18.png" height="500">
+    <img src="./screenshots/Screen Shot 2020-04-02 at 12.56.30.png" height="500">
+  </p>
 
-
+  ### Desktop
+  <p display="inline">
+    <img src="./screenshots/Screen Shot 2020-04-02 at 12.57.39.png" height="500">
+    <img src="./screenshots/Screen Shot 2020-04-02 at 12.57.54.png" height="500">
+    <img src="./screenshots/Screen Shot 2020-04-02 at 16.51.37.png" height="500">
+  </p>
